@@ -1,0 +1,10 @@
+最推荐的订阅地址（一次导入多个常用插件）
+在 插件设置 → 点击右下角 “+” → 选择 从网络安装插件，输入以下地址之一：
+官方推荐（作者维护）：
+https://gitee.com/maotoumao/MusicFreePlugins/raw/master/plugins.json
+聚合订阅器（插件更多，更新快，强烈推荐）：
+https://musicfreepluginshub.2020818.xyz/plugins.json
+另一个综合接口（备用）：
+https://fastly.jsdelivr.net/gh/Huibq/keep-alive/Music_Free/myPlugins.json
+
+导入后，软件会自动列出多个平台插件，你可以逐个启用/禁用。
